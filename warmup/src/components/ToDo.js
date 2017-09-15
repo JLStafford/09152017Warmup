@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CartItem = (
+const ToDo = (
   props
 ) => {
   console.log("todo log", props)
@@ -14,4 +14,4 @@ const CartItem = (
   )
 }
 
-export default CartItem
+export default ToDo
